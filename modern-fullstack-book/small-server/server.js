@@ -1,1 +1,0 @@
-require("http").createServer((inRequest, inResponse) => { console.log("firsat") }).listen(3000);
